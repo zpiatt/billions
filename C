@@ -3,9 +3,6 @@
 int main() {
     int i = 0;
     while (i < 1000000000)
-    {
-        i++;
-    }
-    printf("C counts to: %d\n", i);
+    i++;
    return 0;
 }
